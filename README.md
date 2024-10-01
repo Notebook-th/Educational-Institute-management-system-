@@ -25,6 +25,24 @@ The **Educational Institute Management System** is a desktop-based application d
 ### 4. Back Button Functionality
 - Each form has a back button that allows users to navigate back to the previous page, improving user experience.
 
+##Screenshots
+1. Login page
+![image](https://github.com/user-attachments/assets/515283bf-d5bc-4782-ae74-84858c363849)
+
+2. signup page
+![image](https://github.com/user-attachments/assets/ae458ca1-cdeb-4ec0-9c02-42bf7cc1e68b)
+
+3.Student main page
+![image](https://github.com/user-attachments/assets/ab942358-fbec-4b63-b624-f822b914f6d2)
+
+4.Teacher main page
+![image](https://github.com/user-attachments/assets/34232dee-c35f-4a62-9ab9-d0263cf19c62)
+
+5.admin main page
+![image](https://github.com/user-attachments/assets/1e0fa521-2fef-4602-b21e-6334010a9816)
+
+try the project to find out more functionalities!!!
+
 ## Getting Started
 
 ### Prerequisites
@@ -36,7 +54,7 @@ To run this project, you will need:
 ### Database Setup
 1. Open **SQL Server Management Studio (SSMS)** and connect to your local server.
 2. Create a new database named `edudb`.
-3. Run the SQL scripts provided in the `db-scripts` folder to create the necessary tables:
+3. Run the SQL scripts provided in the `db-scripts.txt` to create the necessary tables:
     - `Grades.sql`: Creates the `Grades` table for storing grades.
     - `SectionEnrollment.sql`: Creates the `sectionab` and `entab` tables for section management.
     - `Payment.sql`: Creates the `Payment` table for tracking student payments.
